@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pooja102004&show_icons=true&locale=en" alt="Pooja102004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavi2003-eng&" alt="pavi2003-eng" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pooja102004&" alt="Pooja102004" /></p>
