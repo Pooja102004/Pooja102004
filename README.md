@@ -11,7 +11,7 @@
 
 - 📫 How to reach me  *poojarameshsan2004@gmail.com*
 
-- 📄 Know about my experiences <a href="#" target="_blank"><Strong><i>Pooja_Ramesh_Resume</i></Strong></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XTtMVZlx57yBX-0odZtVQzXFCkI4KKp6/view?usp=drive_link" target="_blank"><Strong><i>Pooja_Ramesh_Resume</i></Strong></a>
 
 - ⚡ Fun fact    *React is the only place where 'state' is a good thing.*
 
